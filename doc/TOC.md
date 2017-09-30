@@ -18,6 +18,7 @@
 ## OTHER
 
 * [Terms of Service](terms.md)
+* [Privacy Policy](policy.md)
 
 
 ## EXTERNAL LINKS
