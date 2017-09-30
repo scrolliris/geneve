@@ -15,6 +15,11 @@
 * [Analysis using statistics](how_it_works/analysis.md)
 
 
+## OTHER
+
+* [Terms of Service](terms.md)
+
+
 ## EXTERNAL LINKS
 
 * [Release notes](https://about.scrolliris.com/timeline)
