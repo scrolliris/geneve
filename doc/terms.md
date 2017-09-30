@@ -19,8 +19,8 @@ https://doc.scrolliris.com/terms.html
 ## Copyright
 
 * Your articles and materials uploaded belong to you.
-* Your articles are published under appropriate open license which is chose by you.
-* Anonymously tracked readability logs also belong to you. But it will be accesible as open data under the license which is chose by you.
+* Your articles are published under appropriate open license which is chosen by you.
+* Anonymously tracked readability logs also belong to you. But it will be accesible as open data under the license which is chosen by you.
 * The design resources on Scrolliris is owned by ourself (Lupine Softare LLC). But our projects are released as free software. about the licenses of those softwares, see each *LICENSE* file in each project.
 
 https://gitlab.com/lupine-software
