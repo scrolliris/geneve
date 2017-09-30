@@ -1,27 +1,27 @@
 # Summary
 
-* [README](readme.md)
+* [README](README.md)
 
 
-## GETTING STARTED
+## Getting Started
 
 * [Introduction](getting_started/introduction.md)
 
 
-## HOW IT WORKS
+## How It Works
 
 
 * [Anonymous tracking](how_it_works/tracking.md)
 * [Analysis using statistics](how_it_works/analysis.md)
 
 
-## OTHER
+## Other
 
 * [Terms of Service](terms.md)
 * [Privacy Policy](policy.md)
 
 
-## EXTERNAL LINKS
+## External Links
 
 * [Release notes](https://about.scrolliris.com/timeline)
 
