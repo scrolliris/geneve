@@ -19,6 +19,7 @@
 
 * [Terms of Service](terms.md)
 * [Privacy Policy](policy.md)
+* [Cookie](cookie.md)
 
 
 ## External Links
