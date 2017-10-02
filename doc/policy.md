@@ -13,7 +13,7 @@ applications visited by the user about the user's browser `DNT` setting.
 
 We respect the user's choice and their privacy.
 
-Our tracking script cares only about texts, elements and scroll speed.
+Our tracking script cares only about the text, elements and scroll.
 It does not contain sensitive data. Nevertheless, it does not send any
 data to server, if user wants.
 
