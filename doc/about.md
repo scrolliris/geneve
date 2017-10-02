@@ -1,4 +1,4 @@
-# About this documentation
+# About this Documentation
 
 This is written as a comprehensive guide to [Scrolliris](https://about.scrolliris.com/).
 
