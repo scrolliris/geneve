@@ -11,7 +11,7 @@
 ## How It Works
 
 
-* [Anonymous Tracking](how_it_works/tracking.md)
+* [Readability Tracking](how_it_works/tracking.md)
 * [Analysis using Statistics](how_it_works/analysis.md)
 
 

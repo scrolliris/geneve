@@ -17,4 +17,4 @@ Our tracking script cares only about texts, elements and scroll speed.
 It does not contain sensitive data. Nevertheless, it does not send any
 data to server, if user wants.
 
-See also [Anonymous Tracking](/how_it_works/tracking.html) page.
+See also [Readability Tracking](/how_it_works/tracking.html).
