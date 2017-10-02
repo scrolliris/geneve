@@ -13,6 +13,7 @@
 
 * [Readability Tracking](how_it_works/tracking.md)
 * [Analysis using Statistics](how_it_works/analysis.md)
+* [Open Data](how_it_works/data.md)
 
 
 ## Other
