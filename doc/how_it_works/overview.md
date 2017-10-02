@@ -2,7 +2,7 @@
 
 Scrolliris is a publication platform which utilizes text readability analysis.
 
-[![scrolliris-readability-reflector-widget](
+[![try.scrolliris.com](
 ../img/try-scrolliris-com-20170930.png)](https://try.scrolliris.com/)
 
 (screenshot from our [demo](https://try.scrolliris.com/) site)
