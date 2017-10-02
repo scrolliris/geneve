@@ -11,8 +11,8 @@
 ## How It Works
 
 
-* [Anonymous tracking](how_it_works/tracking.md)
-* [Analysis using statistics](how_it_works/analysis.md)
+* [Anonymous Tracking](how_it_works/tracking.md)
+* [Analysis using Statistics](how_it_works/analysis.md)
 
 
 ## Other
@@ -24,10 +24,10 @@
 
 ## External Links
 
-* [Release notes](https://about.scrolliris.com/timeline)
+* [Release Nnotes](https://about.scrolliris.com/timeline)
 
 ---
 
 
-* [About this documentation](about.md)
+* [About this Documentation](about.md)
 * [License](license.md)
