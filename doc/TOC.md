@@ -26,7 +26,8 @@
 
 ## External Links
 
-* [Release Nnotes](https://about.scrolliris.com/timeline)
+* [Development Changelog](https://log.scrolliris.com/)
+* [Product Timeline](https://about.scrolliris.com/timeline)
 
 ---
 
