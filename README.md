@@ -2,7 +2,7 @@
 
 `/ʒənɛv/`
 
-[![pipeline status][ci-build]][commit]
+[![pipeline status][pipeline]][commit]
 
 
 ```txt
@@ -65,5 +65,5 @@ Free Documentation License".
 See [LICENSE](LICENSE).
 
 
-[ci-build]: https://gitlab.com/lupine-software/geneve/badges/master/build.svg
+[pipeline]: https://gitlab.com/lupine-software/geneve/badges/master/pipeline.svg
 [commit]: https://gitlab.com/lupine-software/geneve/commits/master
