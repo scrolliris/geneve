@@ -38,7 +38,7 @@ https://doc.scrolliris.com/terms.html
   But our projects are released as free software. about the licenses of those
   softwares, see each *LICENSE* file in each project.
 
-https://gitlab.com/lupine-software
+https://gitlab.com/scrolliris
 
 
 ## Terms

@@ -2,8 +2,8 @@
 
 ## Free Software
 
-Our script *Scrolliris Readability Tracker* (codename: [siret](
-https://gitlab.com/lupine-software/siret)) is free software. If you want,
+Our script *Scrolliris Readability Tracker* (codename: [stäfa](
+https://gitlab.com/scrolliris/staefa)) is free software. If you want,
 you can even customize and integrate it into your document system.
 
 ```zsh

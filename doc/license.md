@@ -10,4 +10,4 @@ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 A copy of the license is included in the section entitled "GNU
 Free Documentation License".
 
-See [LICENSE](https://gitlab.com/lupine-software/geneve/LICENSE). (GFDL 1.3)
+See [LICENSE](https://gitlab.com/scrolliris/geneve/LICENSE). (GFDL 1.3)

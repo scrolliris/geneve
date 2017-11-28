@@ -12,18 +12,17 @@
  /   ||/  / |/ |  |/  |  |_|/
 /(__/ |__/  |  |_/|__/ \/  |__/
 
-Genève;
+Genève; usaGE aNd how it works documEntation serVEr
 ```
 
-This documentation project is a guide and help to [Scrolliris](
+This documentation project is a usage and how it works for [Scrolliris](
 https://about.scrolliris.com/). Read it on [online](
 https://doc.scrolliris.com/).
 
 
 ## Repository
 
-[https://gitlab.com/lupine-software/geneve](
-https://gitlab.com/lupine-software/geneve)
+https://gitlab.com/scrolliris/geneve
 
 
 ## Requirements
@@ -65,5 +64,5 @@ Free Documentation License".
 See [LICENSE](LICENSE).
 
 
-[pipeline]: https://gitlab.com/lupine-software/geneve/badges/master/pipeline.svg
-[commit]: https://gitlab.com/lupine-software/geneve/commits/master
+[pipeline]: https://gitlab.com/scrolliris/geneve/badges/master/pipeline.svg
+[commit]: https://gitlab.com/scrolliris/geneve/commits/master
