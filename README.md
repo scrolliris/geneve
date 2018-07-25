@@ -1,8 +1,11 @@
-# Genève
+# Scrolliris General Documentation
 
-`/ʒənɛv/`
+Code Name: `Genève /ʒənɛv/`
 
 [![pipeline status][pipeline]][commit]
+
+[pipeline]: https://gitlab.com/scrolliris/scrolliris-general-documentation/badges/master/pipeline.svg
+[commit]: https://gitlab.com/scrolliris/scrolliris-general-documentation/commits/master
 
 
 ```txt
@@ -22,7 +25,7 @@ https://doc.scrolliris.com/).
 
 ## Repository
 
-https://gitlab.com/scrolliris/geneve
+https://gitlab.com/scrolliris/scrolliris-general-documentation
 
 
 ## Requirements
@@ -44,7 +47,7 @@ contact [@scrolliris](https://twitter.com/scrolliris) on Twitter.
 ## License
 
 ```txt
-Genève
+Scrolliris General Documentation
 Copyright (c) 2017 Lupine Software LLC
 ```
 
@@ -62,7 +65,3 @@ Free Documentation License".
 ```
 
 See [LICENSE](LICENSE).
-
-
-[pipeline]: https://gitlab.com/scrolliris/geneve/badges/master/pipeline.svg
-[commit]: https://gitlab.com/scrolliris/geneve/commits/master
